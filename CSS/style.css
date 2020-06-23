@@ -1,0 +1,17 @@
+* {
+  font-family: Times New Roman;
+  font-size: 10px;
+}
+
+body {
+  color: blue;
+  background-color: #E6E6FA;
+  border: 1px solid black;
+    font-size: 12px;
+}
+
+h1 {
+  color: #00C2A8;
+  text-align: center;
+  font-size: 18px;
+}
